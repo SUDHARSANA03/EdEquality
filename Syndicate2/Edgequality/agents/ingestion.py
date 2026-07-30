@@ -1,6 +1,5 @@
 import os
 import pdfplumber
-import pytesseract
 from typing import Dict, Any
 
 def ingestion_agent(state: dict) -> dict:
