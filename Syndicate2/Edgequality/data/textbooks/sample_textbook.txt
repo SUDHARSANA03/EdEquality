@@ -1,0 +1,8 @@
+Chapter 1: Introduction to Algebra
+Algebra is a branch of mathematics dealing with symbols and the rules for manipulating those symbols. In elementary algebra, those symbols represent quantities without fixed values, known as variables.
+
+1.1 Variables and Expressions
+A variable is a letter that represents an unknown number. An algebraic expression contains at least one variable and at least one operation. For example, x + 5 is an algebraic expression.
+
+1.2 Equations
+An equation is a mathematical statement that two expressions are equal. It always contains an equals sign (=). For example, 2x + 3 = 11 is an equation. You can solve an equation to find the value of the variable that makes the statement true.

@@ -1,0 +1,404 @@
+[
+  {
+    "id": "tn_eng_8_gram_1",
+    "state_board": "Tamil Nadu State Board (Samacheer Kalvi)",
+    "subject": "English Grammar",
+    "grade": "8",
+    "domain": "Tenses, Active & Passive Voice, and Direct & Indirect Speech",
+    "description": "Comprehensive English grammar covering parts of speech, subject-verb agreement rules, active and passive voice transformations, direct and indirect speech, and tense conjugations.",
+    "portions": [
+      "Unit 1.1: Parts of Speech & Subject-Verb Agreement Rules",
+      "Unit 1.2: Present, Past & Future Tense Forms & Conjugation",
+      "Unit 1.3: Active Voice and Passive Voice Transformations",
+      "Unit 1.4: Direct Speech and Reported (Indirect) Speech Conversion"
+    ],
+    "learning_objectives": [
+      "LO-1: Identify and apply correct parts of speech and subject-verb agreement rules.",
+      "LO-2: Transform sentences between Active Voice and Passive Voice correctly.",
+      "LO-3: Convert direct speech sentences into indirect reported speech.",
+      "LO-4: Identify tense errors and rectify sentence syntax."
+    ],
+    "keywords": ["english", "grammar", "noun", "verb", "adjective", "adverb", "pronoun", "preposition", "conjunction", "tense", "past tense", "present tense", "future tense", "active voice", "passive voice", "direct speech", "indirect speech", "reported speech", "punctuation", "syntax", "clause", "modals"]
+  },
+  {
+    "id": "cbse_eng_8_gram_2",
+    "state_board": "NCERT / CBSE State Framework",
+    "subject": "English Grammar",
+    "grade": "8",
+    "domain": "Modal Auxiliaries, Clauses & Punctuation",
+    "description": "Understanding modal verbs, relative and subordinate clauses, punctuation rules, vocabulary enhancement, and paragraph composition.",
+    "portions": [
+      "Unit 2.1: Modal Auxiliaries (Can, Could, May, Might, Must, Should)",
+      "Unit 2.2: Types of Clauses (Main, Relative, Subordinate Clauses)",
+      "Unit 2.3: Punctuation Rules, Capitalization & Paragraph Composition"
+    ],
+    "learning_objectives": [
+      "LO-1: Apply modal auxiliaries to express permission, obligation, and possibility.",
+      "LO-2: Construct complex sentences using relative and subordinate clauses.",
+      "LO-3: Apply standard punctuation marks and capitalization in composition."
+    ],
+    "keywords": ["english", "grammar", "modals", "auxiliary", "clause", "subordinate", "punctuation", "comma", "colon", "semicolon", "vocabulary", "synonym", "antonym", "composition"]
+  },
+  {
+    "id": "tn_sci_8_phy_1",
+    "state_board": "Tamil Nadu State Board (Samacheer Kalvi)",
+    "subject": "Physics",
+    "grade": "8",
+    "domain": "Force, Pressure & Newton's Laws of Motion",
+    "description": "Understanding Newton's laws of motion, force equations (F=ma), static friction, atmospheric pressure, gravitational acceleration, and physical mechanics.",
+    "portions": [
+      "Unit 2.1: Newton's Laws of Motion & Equations of Motion (F=ma, v=u+at)",
+      "Unit 2.2: Types of Contact & Non-contact Forces",
+      "Unit 2.3: Static, Kinetic, and Rolling Friction Mechanisms",
+      "Unit 2.4: Atmospheric Pressure, Hydraulics & Gravitational Acceleration"
+    ],
+    "learning_objectives": [
+      "LO-1: Apply Newton's laws to calculate acceleration and force (F=ma).",
+      "LO-2: Calculate pressure using force per unit area formula.",
+      "LO-3: Demonstrate methods to reduce friction in physical machinery.",
+      "LO-4: Explain Pascal's principle in hydraulic systems."
+    ],
+    "keywords": ["physics", "force", "friction", "newton", "motion", "pressure", "gravity", "acceleration", "velocity", "mechanics", "ஈர்ப்பு விசை", "உராய்வு", "விசை"]
+  },
+  {
+    "id": "tn_sci_8_bio_1",
+    "state_board": "Tamil Nadu State Board (Samacheer Kalvi)",
+    "subject": "Biology",
+    "grade": "8",
+    "domain": "Plant Biology & Photosynthesis",
+    "description": "Understanding photosynthesis, chloroplast structure, light and dark reactions, plant nutrition, and essential minerals in Tamil Nadu agricultural ecosystems.",
+    "portions": [
+      "Unit 1.1: Leaf Anatomy and Chloroplast Structure",
+      "Unit 1.2: Mechanism of Photosynthesis (Light & Dark Reactions)",
+      "Unit 1.3: Factors Influencing Photosynthetic Rate (Light Intensity, CO2, Temp)",
+      "Unit 1.4: Plant Nutrition & Mineral Translocation in Regional Crops"
+    ],
+    "learning_objectives": [
+      "LO-1: Explain the chemical equation of photosynthesis and raw materials required.",
+      "LO-2: Differentiate between light-dependent and light-independent cellular reactions.",
+      "LO-3: Analyze the role of stomata in transpiration and gas exchange.",
+      "LO-4: Conduct starch test experiment to demonstrate light requirement in leaves."
+    ],
+    "keywords": ["botany", "biology", "photosynthesis", "chloroplast", "plant", "light", "glucose", "oxygen", "ta", "tamil", "ஒளிச்சேர்க்கை", "இலைகள்"]
+  },
+  {
+    "id": "tn_sci_8_bio_2",
+    "state_board": "Tamil Nadu State Board (Samacheer Kalvi)",
+    "subject": "Biology",
+    "grade": "8",
+    "domain": "Human Organ Systems & Digestive Physiology",
+    "description": "Structure and physiology of human digestive, respiratory, and circulatory systems with focus on nutrition and health in regional contexts.",
+    "portions": [
+      "Unit 3.1: Alimentary Canal and Digestive Enzymes",
+      "Unit 3.2: Mechanism of Respiration and Gas Exchange",
+      "Unit 3.3: Blood Composition and Heart Structure"
+    ],
+    "learning_objectives": [
+      "LO-1: Trace the path of food digestion from mouth to small intestine.",
+      "LO-2: Describe the role of hemoglobin in oxygen transportation."
+    ],
+    "keywords": ["biology", "digestion", "heart", "blood", "enzymes", "stomach", "respiration", "செரிமானம்", "இரத்தம்"]
+  },
+  {
+    "id": "tn_math_8_alg_1",
+    "state_board": "Tamil Nadu State Board (Samacheer Kalvi)",
+    "subject": "Mathematics",
+    "grade": "8",
+    "domain": "Cost Calculation, Multiplication & Linear Equations",
+    "description": "Cost calculations, practical multiplication in daily life, solving linear equations, factorising algebraic expressions, and solving real-life word problems.",
+    "portions": [
+      "Unit 4.1: Cost Calculation & Practical Multiplication (Total Cost = Quantity x Rate)",
+      "Unit 4.2: Linear Equations in One Variable & Word Problems",
+      "Unit 4.3: Algebraic Identities, Expansion & Factorisation"
+    ],
+    "learning_objectives": [
+      "LO-1: Calculate total cost using multiplication formulas (Total Cost = Number of Items x Cost per Item).",
+      "LO-2: Solve linear equations with fractional coefficients and practical applications.",
+      "LO-3: Apply (a+b)^2 and (a-b)^2 identities to simplify expressions."
+    ],
+    "keywords": ["mathematics", "math", "cost", "total cost", "multiplication", "algebra", "equations", "variables", "factorisation", "linear", "buys", "price", "apples", "rate", "arithmetic", "கணிதம்", "இயற்கணிதம்", "பெருக்கல்"]
+  },
+  {
+    "id": "tn_math_8_geom_1",
+    "state_board": "Tamil Nadu State Board (Samacheer Kalvi)",
+    "subject": "Mathematics",
+    "grade": "8",
+    "domain": "Practical Geometry, Triangles & Mensuration",
+    "description": "Properties of triangles, Pythagoras theorem, area and perimeter of plane figures (trapezium, rhombus), and volume of 3D solids.",
+    "portions": [
+      "Unit 5.1: Construction of Triangles & Quadrilaterals",
+      "Unit 5.2: Pythagoras Theorem & Right-Angled Triangle Applications",
+      "Unit 5.3: Mensuration: Area of Quadrilaterals, Trapezium & Rhombus",
+      "Unit 5.4: Volume & Surface Area of Cubes and Cuboids"
+    ],
+    "learning_objectives": [
+      "LO-1: Apply Pythagoras theorem to calculate unknown lengths in right-angled triangles.",
+      "LO-2: Calculate area and perimeter of composite 2D geometric shapes.",
+      "LO-3: Determine surface area and volume of rectangular prisms and cubes."
+    ],
+    "keywords": ["mathematics", "math", "geometry", "triangle", "pythagoras", "area", "perimeter", "mensuration", "rhombus", "trapezium", "volume", "cuboid", "shapes", "angle", "வடிவியல்", "முக்கோணம்"]
+  },
+  {
+    "id": "ncert_math_8_num_1",
+    "state_board": "NCERT / CBSE State Framework",
+    "subject": "Mathematics",
+    "grade": "8",
+    "domain": "Rational Numbers & Linear Equations in One Variable",
+    "description": "Properties of rational numbers, representation on number line, solving linear equations with variables on both sides, and applications.",
+    "portions": [
+      "Unit 1.1: Rational Numbers: Closure, Commutativity & Associativity Properties",
+      "Unit 1.2: Representation of Rational Numbers on Number Line & Finding Rational Numbers Between Two Numbers",
+      "Unit 1.3: Linear Equations with Variables on Both Sides",
+      "Unit 1.4: Word Problems & Practical Applications of Linear Equations"
+    ],
+    "learning_objectives": [
+      "LO-1: Identify and apply algebraic properties of rational numbers.",
+      "LO-2: Solve multi-step linear equations involving fractional terms.",
+      "LO-3: Translate real-world scenarios into linear algebraic equations."
+    ],
+    "keywords": ["mathematics", "math", "rational numbers", "number line", "linear equations", "algebra", "arithmetic", "fraction", "fractions", "equation", "solving", "संख्याएं", "बीजगणित"]
+  },
+  {
+    "id": "ncert_math_8_data_1",
+    "state_board": "NCERT / CBSE State Framework",
+    "subject": "Mathematics",
+    "grade": "8",
+    "domain": "Data Handling, Squares & Square Roots",
+    "description": "Organizing data, bar graphs, pie charts, probability concepts, square numbers, square roots by prime factorisation and division methods.",
+    "portions": [
+      "Unit 2.1: Data Handling: Frequency Distribution Tables & Histogram Analysis",
+      "Unit 2.2: Circle Graphs or Pie Charts Construction",
+      "Unit 2.3: Chance and Probability Basics",
+      "Unit 2.4: Squares, Square Roots, Cubes & Cube Roots Calculation"
+    ],
+    "learning_objectives": [
+      "LO-1: Construct and interpret pie charts and histograms from raw frequency data.",
+      "LO-2: Calculate empirical probability of events.",
+      "LO-3: Compute square roots and cube roots using prime factorisation and long division."
+    ],
+    "keywords": ["mathematics", "math", "data handling", "pie chart", "histogram", "probability", "statistics", "square root", "cube root", "frequency", "आंकड़े", "वर्गमूल"]
+  },
+  {
+    "id": "ka_math_8_num_1",
+    "state_board": "Karnataka State Board (KSEEB)",
+    "subject": "Mathematics",
+    "grade": "8",
+    "domain": "Real Numbers, Arithmetic & Commercial Mathematics",
+    "description": "Percentage calculations, profit and loss, simple and compound interest, discount, tax calculations, and arithmetic sequences.",
+    "portions": [
+      "Unit 1.1: Commercial Mathematics: Profit, Loss, Discount & Overhead Expenses",
+      "Unit 1.2: Simple Interest & Compound Interest Formulae",
+      "Unit 1.3: Percentages and Tax Calculations (GST)",
+      "Unit 1.4: Direct and Inverse Proportions"
+    ],
+    "learning_objectives": [
+      "LO-1: Calculate percentage profit, loss, and marked price discounts.",
+      "LO-2: Compute compound interest annually and half-yearly.",
+      "LO-3: Solve problems involving direct and inverse variation."
+    ],
+    "keywords": ["mathematics", "math", "arithmetic", "percentage", "profit", "loss", "interest", "compound interest", "ratio", "proportion", "commercial math", "ಗಣಿತ", "ಶೇಕಡಾವಾರು"]
+  },
+  {
+    "id": "ap_math_8_alg_1",
+    "state_board": "Andhra Pradesh / Telangana State Board (SCERT)",
+    "subject": "Mathematics",
+    "grade": "8",
+    "domain": "Number System, Polynomials & Factorisation",
+    "description": "Exponents and powers, laws of exponents, algebraic expressions, multiplication of polynomials, and factorisation strategies.",
+    "portions": [
+      "Unit 1.1: Laws of Exponents & Powers with Negative Exponents",
+      "Unit 1.2: Multiplication and Division of Polynomial Expressions",
+      "Unit 1.3: Factorisation using Standard Identities & Regrouping"
+    ],
+    "learning_objectives": [
+      "LO-1: Simplify expressions using exponential laws (a^m * a^n = a^(m+n)).",
+      "LO-2: Factorise algebraic expressions by splitting middle terms and standard identities."
+    ],
+    "keywords": ["mathematics", "math", "exponents", "powers", "polynomials", "factorisation", "algebra", "expressions", "గణితం", "బీజగణితం"]
+  },
+  {
+    "id": "kl_math_8_geom_1",
+    "state_board": "Kerala State Board (SCERT Kerala)",
+    "subject": "Mathematics",
+    "grade": "8",
+    "domain": "Area of Polygons & Equations",
+    "description": "Area calculation of regular and irregular polygons, quadrilaterals, circles, and solving systems of linear equations.",
+    "portions": [
+      "Unit 1.1: Area of Polygons and Quadrilaterals",
+      "Unit 1.2: Circle Properties: Circumference and Area Calculation",
+      "Unit 1.3: Algebraic Equations & Equal Relations"
+    ],
+    "learning_objectives": [
+      "LO-1: Calculate area of polygons by dividing into triangles and trapeziums.",
+      "LO-2: Derive and apply circumference and area formulas for circles."
+    ],
+    "keywords": ["mathematics", "math", "polygons", "area", "circle", "quadrilateral", "equations", "geometry", "ഗണിതം", "ജ്യാമിതി"]
+  },
+  {
+    "id": "tn_soc_8_hist_1",
+    "state_board": "Tamil Nadu State Board (Samacheer Kalvi)",
+    "subject": "Social Studies",
+    "grade": "8",
+    "domain": "Tamil Nadu History & Chola Administration",
+    "description": "Chola dynasty architectural marvels, maritime trade, local self-governance (Kudavolai system), and agricultural canal networks.",
+    "portions": [
+      "Unit 5.1: Imperial Cholas and Tanjore Big Temple Architecture",
+      "Unit 5.2: Kudavolai Village Administration System",
+      "Unit 5.3: Maritime Trade and Kaveri Delta Irrigation"
+    ],
+    "learning_objectives": [
+      "LO-1: Explain the democratic features of the Kudavolai electoral system.",
+      "LO-2: Identify Chola bronze art and temple architectural features."
+    ],
+    "keywords": ["history", "social studies", "chola", "temple", "kudavolai", "tanjore", "sozhar", "வரலாறு", "சோழர்"]
+  },
+
+  {
+    "id": "ncert_sci_8_ch1",
+    "state_board": "NCERT / CBSE State Framework",
+    "subject": "Biology",
+    "grade": "8",
+    "domain": "Crop Production and Agricultural Management",
+    "description": "Agricultural practices, soil preparation, sowing, irrigation methods, harvesting, and grain storage techniques across Indian states.",
+    "portions": [
+      "Unit 1.1: Agricultural Practices and Kharif/Rabi Crops",
+      "Unit 1.2: Preparation of Soil and Tilling Tools",
+      "Unit 1.3: Drip and Sprinkler Irrigation Systems",
+      "Unit 1.4: Protection from Weeds and Granary Storage"
+    ],
+    "learning_objectives": [
+      "LO-1: Distinguish between Kharif and Rabi crop seasons with examples.",
+      "LO-2: Compare traditional and modern water conservation irrigation methods."
+    ],
+    "keywords": ["crop", "agriculture", "irrigation", "soil", "harvest", "grain", "farming", "कृषि", "फसल"]
+  },
+  {
+    "id": "ncert_sci_8_ch2",
+    "state_board": "NCERT / CBSE State Framework",
+    "subject": "Biology",
+    "grade": "8",
+    "domain": "Microorganisms: Friend and Foe",
+    "description": "Role of bacteria, fungi, viruses, fermentation, food preservation, and disease prevention in community hygiene.",
+    "portions": [
+      "Unit 2.1: Types of Microorganisms (Bacteria, Fungi, Protozoa, Algae)",
+      "Unit 2.2: Commercial and Medicinal Uses of Microbes",
+      "Unit 2.3: Food Preservation Methods (Pasteurization, Salting)"
+    ],
+    "learning_objectives": [
+      "LO-1: Explain antibiotic resistance and role of vaccines.",
+      "LO-2: Describe nitrogen fixation by Rhizobium bacteria in leguminous plants."
+    ],
+    "keywords": ["microorganism", "bacteria", "fungi", "virus", "fermentation", "disease", "vaccine", "सूक्ष्मजीव"]
+  },
+
+  {
+    "id": "ka_sci_8_phy",
+    "state_board": "Karnataka State Board (KSEEB)",
+    "subject": "Physics",
+    "grade": "8",
+    "domain": "Energy & Mechanical Power",
+    "description": "Forms of energy, law of conservation of energy, renewable energy sources, solar power, and hydroelectric power generation.",
+    "portions": [
+      "Unit 1.1: Law of Conservation of Energy & Mechanical Work",
+      "Unit 1.2: Solar Photovoltaic Cells and Thermal Collectors",
+      "Unit 1.3: Hydroelectric Power Generation in Sharavathi Basins"
+    ],
+    "learning_objectives": [
+      "LO-1: Explain potential to kinetic energy conversion in hydroelectric dams.",
+      "LO-2: Evaluate environmental advantages of solar energy adoption."
+    ],
+    "keywords": ["physics", "energy", "solar", "hydroelectric", "conservation", "renewable", "power", "ಶಕ್ತಿ", "ವಿಜ್ಞಾನ"]
+  },
+  {
+    "id": "ka_sci_8_cell",
+    "state_board": "Karnataka State Board (KSEEB)",
+    "subject": "Biology",
+    "grade": "8",
+    "domain": "Cell Structure and Organelle Physiology",
+    "description": "Prokaryotic and eukaryotic cells, cell organelles, cell wall, nucleus, mitochondria, and cell division.",
+    "portions": [
+      "Unit 2.1: Cell Membrane and Cell Wall Differences",
+      "Unit 2.2: Functions of Mitochondria, Endoplasmic Reticulum, and Ribosomes",
+      "Unit 2.3: Plant Cell vs Animal Cell Comparison"
+    ],
+    "learning_objectives": [
+      "LO-1: Draw and label parts of a typical plant cell under optical microscope.",
+      "LO-2: Explain why mitochondria are called ATP powerhouse of the cell."
+    ],
+    "keywords": ["biology", "cell", "organelle", "mitochondria", "nucleus", "membrane", "ಕೋಶ", "ಜೀವಕೋಶ"]
+  },
+
+  {
+    "id": "ap_sci_8_chem",
+    "state_board": "Andhra Pradesh / Telangana State Board (SCERT)",
+    "subject": "Chemistry",
+    "grade": "8",
+    "domain": "Synthetic Fibres and Polymers",
+    "description": "Types of natural and synthetic polymers, properties of thermoplastics and thermosetting plastics, and environmental impact of plastic waste.",
+    "portions": [
+      "Unit 1.1: Polymerization and Types of Synthetic Fibres (Nylon, Polyester, Rayon)",
+      "Unit 1.2: Thermographics vs Thermosetting Plastics",
+      "Unit 1.3: 4R Principle for Plastic Waste Reduction"
+    ],
+    "learning_objectives": [
+      "LO-1: Differentiate synthetic polymers from natural fibers by tensile strength.",
+      "LO-2: Formulate eco-friendly community disposal strategy for single-use plastics."
+    ],
+    "keywords": ["chemistry", "synthetic", "plastics", "polymers", "environment", "recycling", "ప్లాస్టిక్", "రసాయనశాస్త్రం"]
+  },
+  {
+    "id": "ap_sci_8_sound",
+    "state_board": "Andhra Pradesh / Telangana State Board (SCERT)",
+    "subject": "Physics",
+    "grade": "8",
+    "domain": "Sound & Acoustic Wave Mechanics",
+    "description": "Production of sound, vocal cords, sound propagation through media, amplitude, frequency, and audible range.",
+    "portions": [
+      "Unit 2.1: Vibration as Source of Sound",
+      "Unit 2.2: Medium Requirement for Sound Wave Propagation",
+      "Unit 2.3: Pitch, Loudness, Noise Pollution, and Hearing Protection"
+    ],
+    "learning_objectives": [
+      "LO-1: Define frequency in Hertz and relate pitch to frequency.",
+      "LO-2: Demonstrate that sound cannot travel through a vacuum."
+    ],
+    "keywords": ["physics", "sound", "vibration", "frequency", "hertz", "decibel", "noise", "ధ్వని", "తరంగాలు"]
+  },
+
+  {
+    "id": "kl_sci_8_env",
+    "state_board": "Kerala State Board (SCERT Kerala)",
+    "subject": "Environmental Science",
+    "grade": "8",
+    "domain": "Ecosystems and Western Ghats Biodiversity",
+    "description": "Western Ghats biodiversity, endemic species, wetland conservation, rain harvesting, and disaster management.",
+    "portions": [
+      "Unit 1.1: Western Ghats Hotspot and Endemic Flora & Fauna",
+      "Unit 1.2: Vembanad Wetland Ecosystem Conservation",
+      "Unit 1.3: Community Rainwater Harvesting and Eco-Restoration"
+    ],
+    "learning_objectives": [
+      "LO-1: Identify endemic plant and animal species of Silent Valley National Park.",
+      "LO-2: Explain the ecological importance of mangroves in coastal flood mitigation."
+    ],
+    "keywords": ["evs", "biodiversity", "ecosystem", "conservation", "wetland", "rainwater", "കീടங்கள்", "പരിസ്ഥിതി", "കേരളം"]
+  },
+  {
+    "id": "kl_sci_8_chem",
+    "state_board": "Kerala State Board (SCERT Kerala)",
+    "subject": "Chemistry",
+    "grade": "8",
+    "domain": "Chemical Changes & Periodic Table",
+    "description": "Physical vs chemical changes, chemical equations, reactivity series of metals, and modern periodic table groups.",
+    "portions": [
+      "Unit 2.1: Exothermic and Endothermic Reactions",
+      "Unit 2.2: Displacement Reactions of Metals in Acid Solutions",
+      "Unit 2.3: Atomic Number and Periodic Arrangement"
+    ],
+    "learning_objectives": [
+      "LO-1: Balance simple chemical equations for metal oxidation.",
+      "LO-2: Predict metal reactivity using standard displacement series."
+    ],
+    "keywords": ["chemistry", "reaction", "metals", "periodic table", "elements", "രസതന്ത്രം", "மூலகங்கள்"]
+  }
+]

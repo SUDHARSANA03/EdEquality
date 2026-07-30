@@ -1,0 +1,82 @@
+{
+  "subject": "Mathematics",
+  "target_language": "Tamil",
+  "target_lang_code": "ta",
+  "bilingual_questions": [
+    {
+      "id": 1,
+      "bloom_level": "Remember",
+      "type": "Extracted Document Analysis",
+      "english_question": "Q1 [Remember] (Concept Recall): Based on the section on Mathematics, define and explain the core statement: \"Mathematics helps us solve problems using numbers and formulas\".",
+      "regional_question": "Q1 [நினைவுகூர்க] (கருத்து நினைவுகூருதல்): கணிதம் பற்றிய பிரிவின் அடிப்படையில், முக்கிய அறிக்கையை வரையறுத்து விளக்கவும்: \"எண்கள் மற்றும் சூத்திரங்களைப் பயன்படுத்தி சிக்கல்களைத் தீர்க்க கணிதம் உதவுகிறது\".",
+      "english_answer": "Core Definition: Mathematics helps us solve problems using numbers and formulas",
+      "regional_answer": "முக்கிய வரையறை: எண்கள் மற்றும் சூத்திரங்களைப் பயன்படுத்தி சிக்கல்களைத் தீர்க்க கணிதம் உதவுகிறது"
+    },
+    {
+      "id": 2,
+      "bloom_level": "Understand",
+      "type": "Extracted Document Analysis",
+      "english_question": "Q2 [Understand] (Problem Solving / Application): How can the principle expressed in \"For example, if we add two numbers, we can write 5 + 3 = 8\" be applied to solve real-world problems in Mathematics?",
+      "regional_question": "Q2 [புரிந்துகொள்க] (சிக்கலைத் தீர்த்தல் / பயன்பாடு): \"உதாரணமாக, நாம் இரண்டு எண்களைச் சேர்த்தால், 5 + 3 = 8 என்று எழுதலாம்\" என்பதில் வெளிப்படுத்தப்படும் கொள்கையை கணிதத்தில் நிஜ உலகப் சிக்கல்களைத் தீர்த்தல் எப்படிப் பயன்படுத்தலாம்?",
+      "english_answer": "Applied Solution: For example, if we add two numbers, we can write 5 + 3 = 8",
+      "regional_answer": "பயன்பாட்டு தீர்வு: எடுத்துக்காட்டாக, நாம் இரண்டு எண்களைச் சேர்த்தால், 5 + 3 = 8 என்று எழுதலாம்."
+    },
+    {
+      "id": 3,
+      "bloom_level": "Apply",
+      "type": "Extracted Document Analysis",
+      "english_question": "Q3 [Apply] (Analytical Reasoning): Analyze the key variables, relationships, and mechanisms described in: \"In multiplication, 4 × 6 = 24\".",
+      "regional_question": "Q3 [பயன்படுத்துக] (பகுப்பாய்வு சிந்தனை): \"பெருக்கத்தில், 4 × 6 = 24\" இல் விவரிக்கப்பட்டுள்ள முக்கிய மாறிகள், உறவுகள் மற்றும் வழிமுறைகளை பகுப்பாய்வு செய்யவும்.",
+      "english_answer": "Analytical Breakdown: In multiplication, 4 × 6 = 24",
+      "regional_answer": "பகுப்பாய்வு விளக்கம்: பெருக்கத்தில், 4 × 6 = 24"
+    },
+    {
+      "id": 4,
+      "bloom_level": "Analyze",
+      "type": "Extracted Document Analysis",
+      "english_question": "Q4 [Analyze] (Critical Evaluation): Evaluate the significance of \"An algebraic equation can be written as x + 7...\" in modern Mathematics Applications.",
+      "regional_question": "Q4 [பகுப்பாய்வு செய்க] (முக்கிய மதிப்பீடு): நவீன கணிதப் பயன்பாடுகளில் \"ஒரு இயற்கணித சமன்பாட்டை x + 7 ஆக எழுதலாம்...\" என்பதன் முக்கியத்துவத்தை மதிப்பிடவும்.",
+      "english_answer": "Evaluative Explanation: An algebraic equation can be written as x + 7 = 12, where the value of x is 5",
+      "regional_answer": "மதிப்பீட்டு விளக்கம்: ஒரு இயற்கணித சமன்பாட்டை x + 7 = 12 என எழுதலாம், இங்கு x இன் மதிப்பு 5 ஆகும்."
+    },
+    {
+      "id": 5,
+      "bloom_level": "Evaluate",
+      "type": "Extracted Document Analysis",
+      "english_question": "Q5 [Evaluate] (Synthesis): Synthesize the core findings from: \"The area of a square is calculated using A = s², where s is the length of a side\" and state the key conclusion.",
+      "regional_question": "Q5 [மதிப்பிடுக] (தொகுத்து அமைத்தல்): முக்கிய கண்டுபிடிப்புகளை ஒருங்கிணைக்கவும்: \"ஒரு சதுரத்தின் பரப்பளவு A = s² ஐப் பயன்படுத்தி கணக்கிடப்படுகிறது, அங்கு s என்பது ஒரு பக்கத்தின் நீளம்\" மற்றும் முக்கிய முடிவைக் குறிப்பிடவும்.",
+      "english_answer": "Synthesized Conclusion: The area of a square is calculated using A = s², where s is the length of a side",
+      "regional_answer": "ஒருங்கிணைக்கப்பட்ட முடிவு: ஒரு சதுரத்தின் பரப்பளவு A = s² ஐப் பயன்படுத்தி கணக்கிடப்படுகிறது, இங்கு s என்பது ஒரு பக்கத்தின் நீளம்"
+    }
+  ],
+  "terminology_log": [
+    {
+      "term": "Triangle",
+      "translated_term": "முக்கோணம்"
+    },
+    {
+      "term": "Science",
+      "translated_term": "அறிவியல்"
+    },
+    {
+      "term": "Mathematics",
+      "translated_term": "கணிதம்"
+    },
+    {
+      "term": "Equation",
+      "translated_term": "சமன்பாடு"
+    },
+    {
+      "term": "Area",
+      "translated_term": "பரப்பளவு"
+    },
+    {
+      "term": "Similarly",
+      "translated_term": "இதேபோல்"
+    },
+    {
+      "term": "Pythagorean",
+      "translated_term": "பித்தகோரியன்"
+    }
+  ]
+}

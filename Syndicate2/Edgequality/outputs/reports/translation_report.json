@@ -1,0 +1,29 @@
+{
+  "source_text": "English grammar is the system of rules that helps us use the English language correctly. It includes the study of nouns, pronouns, verbs, adjectives, adverbs, prepositions, conjunctions, and interjections. Grammar helps us form proper sentences and express our ideas clearly. Correct grammar improves speaking, writing, reading, and listening skills. For example, in the sentence \"Ram is walking to school,\" \"Ram\" is the subject and \"is walking\" is the verb. A foreign example is \"John is visiting Paris,\" where \"John\" is the subject and \"is visiting\" is the verb. Learning grammar is important for effective communication in everyday life and academic studies.",
+  "translation_score": 0.96,
+  "terminology_log": [
+    {
+      "term": "Verb",
+      "translated_term": "வினைச்சொல்"
+    },
+    {
+      "term": "Grammar",
+      "translated_term": "இலக்கணம்"
+    },
+    {
+      "term": "Ram",
+      "translated_term": "ராம்"
+    },
+    {
+      "term": "John",
+      "translated_term": "ஜான்"
+    },
+    {
+      "term": "Paris",
+      "translated_term": "பாரிஸ்"
+    }
+  ],
+  "translated_content": "ஆங்கில இலக்கணம் என்பது ஆங்கில மொழியைச் சரியாகப் பயன்படுத்த உதவும் விதிகளின் அமைப்பாகும். பெயர்ச்சொற்கள், பிரதிபெயர்கள், வினைச்சொற்கள், உரிச்சொற்கள், வினையுரிச்சொற்கள், முன்மொழிவுகள், இணைப்புகள் மற்றும் இடைச்சொற்கள் பற்றிய ஆய்வு இதில் அடங்கும். இலக்கணம் சரியான வாக்கியங்களை உருவாக்கவும், நம் கருத்துக்களை தெளிவாக வெளிப்படுத்தவும் உதவுகிறது. சரியான இலக்கணம் பேசுதல், எழுதுதல், வாசிப்பு மற்றும் கேட்கும் திறன்களை மேம்படுத்துகிறது. எடுத்துக்காட்டாக, \"ராம் பள்ளிக்குச் செல்கிறான்\" என்ற வாக்கியத்தில், \"ராம்\" என்பது பொருள் மற்றும் \"இஸ் வாக்கிங்\" என்பது வினைச்சொல். ஒரு வெளிநாட்டு உதாரணம், \"அருள் கொல்கத்தாவை விசிட்டிங் செய்கிறார்\", இங்கு \"அருள்\" என்பது பொருள் மற்றும் \"வருகை\" என்பது வினைச்சொல். அன்றாட வாழ்க்கையிலும் கல்விப் படிப்புகளிலும் பயனுள்ள தகவல்தொடர்புக்கு இலக்கணம் கற்றல் முக்கியமானது.",
+  "target_language": "Tamil",
+  "target_lang_code": "ta"
+}

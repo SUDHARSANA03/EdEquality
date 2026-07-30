@@ -1,0 +1,38 @@
+{
+  "match_score": 100.0,
+  "portions_score": 100.0,
+  "objectives_score": 100.0,
+  "detected_subject": "English Grammar",
+  "subject": "auto",
+  "matched_standards": [
+    "Tamil Nadu State Board (Samacheer Kalvi) Grade 8 English Grammar: Tenses, Active & Passive Voice, and Direct & Indirect Speech",
+    "NCERT / CBSE State Framework Grade 8 English Grammar: Modal Auxiliaries, Clauses & Punctuation"
+  ],
+  "matched_portions": [
+    "Unit 1.1: Parts of Speech & Subject-Verb Agreement Rules",
+    "Unit 1.2: Present, Past & Future Tense Forms & Conjugation",
+    "Unit 1.3: Active Voice and Passive Voice Transformations",
+    "Unit 1.4: Direct Speech and Reported (Indirect) Speech Conversion",
+    "Unit 2.1: Modal Auxiliaries (Can, Could, May, Might, Must, Should)",
+    "Unit 2.2: Types of Clauses (Main, Relative, Subordinate Clauses)",
+    "Unit 2.3: Punctuation Rules, Capitalization & Paragraph Composition"
+  ],
+  "uncovered_portions": [],
+  "achieved_objectives": [
+    "LO-1: Identify and apply correct parts of speech and subject-verb agreement rules.",
+    "LO-2: Transform sentences between Active Voice and Passive Voice correctly.",
+    "LO-3: Convert direct speech sentences into indirect reported speech.",
+    "LO-4: Identify tense errors and rectify sentence syntax.",
+    "LO-1: Apply modal auxiliaries to express permission, obligation, and possibility.",
+    "LO-2: Construct complex sentences using relative and subordinate clauses.",
+    "LO-3: Apply standard punctuation marks and capitalization in composition."
+  ],
+  "unfulfilled_objectives": [],
+  "missing_topics": [
+    "Regional English Grammar Exam Practice Questions (Optional)"
+  ],
+  "improvement_suggestions": [
+    "Add local state board (Tamil Nadu State Board (Samacheer Kalvi)) English Grammar activity lab."
+  ],
+  "curriculum_report": "Regional Curriculum Audit Complete for Tamil Nadu State Board (Samacheer Kalvi) (English Grammar). Overall Match: 100.0% (Portions Score: 100.0%, Learning Objectives Score: 100.0%). Matched Subject: English Grammar."
+}

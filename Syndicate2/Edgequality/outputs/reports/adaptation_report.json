@@ -1,0 +1,16 @@
+{
+  "cultural_score": 0.95,
+  "adaptation_log": [
+    {
+      "original": "John",
+      "adapted": "Arul",
+      "reason": "Replaced foreign name 'John' with regional name 'Arul'"
+    },
+    {
+      "original": "Paris",
+      "adapted": "Kolkata",
+      "reason": "Localized location 'Paris' to 'Kolkata'"
+    }
+  ],
+  "adapted_content": "English grammar is the system of rules that helps us use the English language correctly. It includes the study of nouns, pronouns, verbs, adjectives, adverbs, prepositions, conjunctions, and interjections. Grammar helps us form proper sentences and express our ideas clearly. Correct grammar improves speaking, writing, reading, and listening skills. For example, in the sentence \"Ram is walking to school,\" \"Ram\" is the subject and \"is walking\" is the verb. A foreign example is \"Arul is visiting Kolkata,\" where \"Arul\" is the subject and \"is visiting\" is the verb. Learning grammar is important for effective communication in everyday life and academic studies."
+}

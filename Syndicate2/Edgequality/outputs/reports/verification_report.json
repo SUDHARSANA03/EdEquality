@@ -1,0 +1,9 @@
+{
+  "accuracy_score": 95.0,
+  "confidence_score": 0.95,
+  "verification_report": "Quality Control Audit Complete. Accuracy: 95.0% (Issues noted: Glossary term 'ஜான்' missing in final output.; Glossary term 'பாரிஸ்' missing in final output.)",
+  "detected_errors": [
+    "Glossary term 'ஜான்' missing in final output.",
+    "Glossary term 'பாரிஸ்' missing in final output."
+  ]
+}
